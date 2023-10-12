@@ -1,4 +1,3 @@
-# Seja Bem-Vindo(a)!
 <h1>Projeto de Ambientes.Git</h1>
 <p>Nome: Filipe Gosson</p>
 <p>Tenho experiência em programas tanto de FrontEnd quanto BackEnd, como JavaScript e Java.</p>
